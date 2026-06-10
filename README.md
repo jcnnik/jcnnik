@@ -87,10 +87,6 @@ Links      : zen-browser.app · jcnnik.github.io
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcnnik&bg_color=FAF7F1&color=1C1915&line=A4502C&point=1C1915&area=true&area_color=F4E4DA&hide_border=true" alt="Contribution activity graph" width="92%">
 </picture>
 
-<br><br>
-
-<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jcnnik&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies"></a>
-
 </div>
 
 ## 🔨 What I'm building
