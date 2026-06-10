@@ -28,32 +28,23 @@
 
 > I care about the layer most people skip: what the machine actually does when you're not looking.
 
-<table>
-<tr>
-<td width="60%" valign="top">
+```powershell
+PS C:\Users\Verix> Get-Developer | Format-List
 
-Hey, I'm **Jannik**, online mostly known as **Verix**.
+Name       : Jannik, online mostly known as Verix
+Degree     : B.Sc. Computer Science ✔  ·  M.Sc. in progress
+Team       : Zen Browser (on board since the very first builds)
+Research   : several ML papers, presented at AI conferences in Shanghai 🇨🇳
+Focus      : machine learning · cybersecurity · reverse engineering
+Habit      : automating everything that deserves automating
+Links      : zen-browser.app · jcnnik.github.io
+```
 
-- 🎓 B.Sc. in Computer Science done, currently deep in my **Master's**
-- 🌀 On the **[Zen Browser](https://zen-browser.app/)** team since the very first builds
-- 📄 Published several **ML papers**, presented at AI conferences in **Shanghai** 🇨🇳
-- 🔍 The rest of my time goes into **reverse engineering** and automating everything that deserves automating
+<div align="center">
 
-</td>
-<td width="40%" valign="top">
+🧠 `Machine Learning` &nbsp;·&nbsp; 🛡️ `Cybersecurity` &nbsp;·&nbsp; ⚙️ `Reverse Engineering` &nbsp;·&nbsp; 🤖 `Systems Automation`
 
-| | |
-|--:|:--|
-| 🧠 | Machine Learning |
-| 🛡️ | Cybersecurity |
-| ⚙️ | Reverse Engineering |
-| 🤖 | Systems Automation |
-| 🌐 | [zen-browser.app](https://zen-browser.app/) |
-| 🗂️ | [jcnnik.github.io](https://jcnnik.github.io) |
-
-</td>
-</tr>
-</table>
+</div>
 
 ## 🧰 Toolbox
 
@@ -91,9 +82,22 @@ Hey, I'm **Jannik**, online mostly known as **Verix**.
 
 <br><br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jcnnik&bg_color=0D1117&color=C9D1D9&line=D9744A&point=C9D1D9&area=true&area_color=2D1B12&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcnnik&bg_color=FAF7F1&color=1C1915&line=A4502C&point=1C1915&area=true&area_color=F4E4DA&hide_border=true" alt="Contribution activity graph" width="92%">
+</picture>
+
+<br><br>
+
 <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jcnnik&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies"></a>
 
 </div>
+
+## ⚡ Recent activity
+
+<!-- auto-updated every 6 hours by .github/workflows/activity.yml -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🔨 What I'm building
 
@@ -140,6 +144,13 @@ Binary analysis, Windows automation in PowerShell, and small sharp tools that do
 <br>
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=0D1117&textColor=C9D1D9&qColor=D9744A&aColor=8B949E&codeColor=D9744A">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=FAF7F1&textColor=1C1915&qColor=A4502C&aColor=57514A&codeColor=A4502C" alt="Random dev joke">
+</picture>
+
+<br><br>
 
 <a href="https://github.com/jcnnik"><img src="https://img.shields.io/badge/GitHub-jcnnik-1C1915?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 &nbsp;
