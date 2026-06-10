@@ -28,32 +28,23 @@
 
 > I care about the layer most people skip: what the machine actually does when you're not looking.
 
-<table>
-<tr>
-<td width="60%" valign="top">
+```powershell
+PS C:\Users\Verix> Get-Developer | Format-List
 
-Hey, I'm **Jannik**, online mostly known as **Verix**.
+Name       : Jannik, online mostly known as Verix
+Degree     : B.Sc. Computer Science ✔  ·  M.Sc. in progress
+Team       : Zen Browser (on board since the very first builds)
+Research   : several ML papers, presented at AI conferences in Shanghai 🇨🇳
+Focus      : machine learning · cybersecurity · reverse engineering
+Habit      : automating everything that deserves automating
+Links      : zen-browser.app · jcnnik.github.io
+```
 
-- 🎓 B.Sc. in Computer Science done, currently deep in my **Master's**
-- 🌀 On the **[Zen Browser](https://zen-browser.app/)** team since the very first builds
-- 📄 Published several **ML papers**, presented at AI conferences in **Shanghai** 🇨🇳
-- 🔍 The rest of my time goes into **reverse engineering** and automating everything that deserves automating
+<div align="center">
 
-</td>
-<td width="40%" valign="top">
+🧠 `Machine Learning` &nbsp;·&nbsp; 🛡️ `Cybersecurity` &nbsp;·&nbsp; ⚙️ `Reverse Engineering` &nbsp;·&nbsp; 🤖 `Systems Automation`
 
-| | |
-|--:|:--|
-| 🧠 | Machine Learning |
-| 🛡️ | Cybersecurity |
-| ⚙️ | Reverse Engineering |
-| 🤖 | Systems Automation |
-| 🌐 | [zen-browser.app](https://zen-browser.app/) |
-| 🗂️ | [jcnnik.github.io](https://jcnnik.github.io) |
-
-</td>
-</tr>
-</table>
+</div>
 
 ## 🧰 Toolbox
 
@@ -87,6 +78,13 @@ Hey, I'm **Jannik**, online mostly known as **Verix**.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jcnnik&hide_border=true&background=0D1117&ring=D9744A&fire=D9744A&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=D9744A&sideLabels=8B949E&dates=8B949E">
   <img src="https://streak-stats.demolab.com/?user=jcnnik&hide_border=true&background=FAF7F1&ring=A4502C&fire=A4502C&currStreakNum=1C1915&sideNums=1C1915&currStreakLabel=A4502C&sideLabels=57514A&dates=8B847B" alt="Contribution streak" height="165">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jcnnik&bg_color=0D1117&color=C9D1D9&line=D9744A&point=C9D1D9&area=true&area_color=2D1B12&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcnnik&bg_color=FAF7F1&color=1C1915&line=A4502C&point=1C1915&area=true&area_color=F4E4DA&hide_border=true" alt="Contribution activity graph" width="92%">
 </picture>
 
 <br><br>
