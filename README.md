@@ -1,24 +1,24 @@
 <!-- ============================================================ -->
 <!--  jcnnik · profile README                                     -->
 <!--  hand-tuned: every asset has a light and a dark variant,     -->
-<!--  palette matches jcnnik.github.io (paper / ink / copper)     -->
+<!--  palette matches jcnnik.github.io (black / silver / blue)    -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=A4502C&text=Jannik%20%C2%B7%20Verix&fontColor=FAF7F1&fontSize=62&fontAlignY=36&desc=machine%20learning%20%C2%B7%20reverse%20engineering%20%C2%B7%20systems&descAlignY=56&descSize=17&animation=fadeIn" alt="" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0C0F,100:3E7BFA&text=Jannik%20%C2%B7%20Verix&fontColor=F7F8FA&fontSize=62&fontAlignY=36&desc=machine%20learning%20%C2%B7%20reverse%20engineering%20%C2%B7%20systems&descAlignY=56&descSize=17&animation=fadeIn" alt="" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=A4502C&center=true&vCenter=true&width=620&lines=M.Sc.+Computer+Science+student;Core+team+member+%40+Zen+Browser;AI+papers%2C+presented+in+Shanghai;I+take+software+apart+to+see+how+it+works" alt="M.Sc. Computer Science student · Zen Browser team · AI research · reverse engineering">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=3E7BFA&center=true&vCenter=true&width=620&lines=M.Sc.+Computer+Science+student;Core+team+member+%40+Zen+Browser;AI+papers%2C+presented+in+Shanghai;I+take+software+apart+to+see+how+it+works" alt="M.Sc. Computer Science student · Zen Browser team · AI research · reverse engineering">
 
 <br>
 
-<a href="https://github.com/jcnnik"><img src="https://komarev.com/ghpvc/?username=jcnnik&color=a4502c&style=flat-square&label=visitors" alt="visitor counter"></a>
+<a href="https://github.com/jcnnik"><img src="https://komarev.com/ghpvc/?username=jcnnik&color=3e7bfa&style=flat-square&label=visitors" alt="visitor counter"></a>
 &nbsp;
-<a href="https://zen-browser.app/"><img src="https://img.shields.io/badge/Zen%20Browser-core%20team-A4502C?style=flat-square&logo=zenbrowser&logoColor=white" alt="Zen Browser core team"></a>
+<a href="https://zen-browser.app/"><img src="https://img.shields.io/badge/Zen%20Browser-core%20team-3E7BFA?style=flat-square&logo=zenbrowser&logoColor=white" alt="Zen Browser core team"></a>
 &nbsp;
-<img src="https://img.shields.io/badge/M.Sc.-Computer%20Science-1C1915?style=flat-square&logo=googlescholar&logoColor=white" alt="M.Sc. Computer Science">
+<img src="https://img.shields.io/badge/M.Sc.-Computer%20Science-0B0C0F?style=flat-square&logo=googlescholar&logoColor=white" alt="M.Sc. Computer Science">
 &nbsp;
-<a href="https://jcnnik.github.io"><img src="https://img.shields.io/badge/portfolio-jcnnik.github.io-57514A?style=flat-square&logo=githubpages&logoColor=white" alt="portfolio"></a>
+<a href="https://jcnnik.github.io"><img src="https://img.shields.io/badge/portfolio-jcnnik.github.io-51565F?style=flat-square&logo=githubpages&logoColor=white" alt="portfolio"></a>
 
 </div>
 
@@ -50,13 +50,13 @@ Links      : zen-browser.app · jcnnik.github.io
 
 <div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java&theme=light" alt="Python, C, C++, C#, Java"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java&theme=dark" alt="Python, C, C++, C#, Java"></a>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=powershell,html,css,js,git,regex&theme=light" alt="PowerShell, HTML, CSS, JavaScript, Git, Regex"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=powershell,html,css,js,git,regex&theme=dark" alt="PowerShell, HTML, CSS, JavaScript, Git, Regex"></a>
 <br><br>
-<img src="https://img.shields.io/badge/Batch-1C1915?style=for-the-badge&logoColor=white" alt="Batch">
-<img src="https://img.shields.io/badge/Windows%20internals-A4502C?style=for-the-badge&logoColor=white" alt="Windows internals">
-<img src="https://img.shields.io/badge/binary%20analysis-57514A?style=for-the-badge&logoColor=white" alt="binary analysis">
+<img src="https://img.shields.io/badge/Batch-0B0C0F?style=for-the-badge&logoColor=white" alt="Batch">
+<img src="https://img.shields.io/badge/Windows%20internals-3E7BFA?style=for-the-badge&logoColor=white" alt="Windows internals">
+<img src="https://img.shields.io/badge/binary%20analysis-51565F?style=for-the-badge&logoColor=white" alt="binary analysis">
 
 </div>
 
@@ -65,26 +65,26 @@ Links      : zen-browser.app · jcnnik.github.io
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jcnnik&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D9744A&text_color=C9D1D9&icon_color=D9744A&rank_icon=github">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcnnik&show_icons=true&hide_border=true&bg_color=FAF7F1&title_color=A4502C&text_color=1C1915&icon_color=A4502C&rank_icon=github" alt="GitHub stats" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jcnnik&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6EA8FF&text_color=C9D1D9&icon_color=3E7BFA&rank_icon=github">
+  <img src="https://github-readme-stats.vercel.app/api?username=jcnnik&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=0B0C0F&icon_color=2563EB&rank_icon=github" alt="GitHub stats" height="165">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jcnnik&layout=compact&hide_border=true&bg_color=0D1117&title_color=D9744A&text_color=C9D1D9">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcnnik&layout=compact&hide_border=true&bg_color=FAF7F1&title_color=A4502C&text_color=1C1915" alt="Most used languages" height="165">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jcnnik&hide_border=true&background=0D1117&ring=D9744A&fire=D9744A&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=D9744A&sideLabels=8B949E&dates=8B949E">
-  <img src="https://streak-stats.demolab.com/?user=jcnnik&hide_border=true&background=FAF7F1&ring=A4502C&fire=A4502C&currStreakNum=1C1915&sideNums=1C1915&currStreakLabel=A4502C&sideLabels=57514A&dates=8B847B" alt="Contribution streak" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jcnnik&layout=compact&hide_border=true&bg_color=0D1117&title_color=6EA8FF&text_color=C9D1D9">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcnnik&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=0B0C0F" alt="Most used languages" height="165">
 </picture>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jcnnik&bg_color=0D1117&color=C9D1D9&line=D9744A&point=C9D1D9&area=true&area_color=2D1B12&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcnnik&bg_color=FAF7F1&color=1C1915&line=A4502C&point=1C1915&area=true&area_color=F4E4DA&hide_border=true" alt="Contribution activity graph" width="92%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jcnnik&hide_border=true&background=0D1117&ring=3E7BFA&fire=6EA8FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6EA8FF&sideLabels=8B949E&dates=8B949E">
+  <img src="https://streak-stats.demolab.com/?user=jcnnik&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakNum=0B0C0F&sideNums=0B0C0F&currStreakLabel=2563EB&sideLabels=51565F&dates=9AA0AA" alt="Contribution streak" height="165">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jcnnik&bg_color=0D1117&color=C9D1D9&line=3E7BFA&point=C9D1D9&area=true&area_color=13233F&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcnnik&bg_color=FFFFFF&color=0B0C0F&line=2563EB&point=0B0C0F&area=true&area_color=DBEAFE&hide_border=true" alt="Contribution activity graph" width="92%">
 </picture>
 
 </div>
@@ -135,14 +135,14 @@ Binary analysis, Windows automation in PowerShell, and small sharp tools that do
 
 <div align="center">
 
-<a href="https://github.com/jcnnik"><img src="https://img.shields.io/badge/GitHub-jcnnik-1C1915?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/jcnnik"><img src="https://img.shields.io/badge/GitHub-jcnnik-0B0C0F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 &nbsp;
-<a href="https://zen-browser.app/"><img src="https://img.shields.io/badge/Zen%20Browser-team-A4502C?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="Zen Browser"></a>
+<a href="https://zen-browser.app/"><img src="https://img.shields.io/badge/Zen%20Browser-team-3E7BFA?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="Zen Browser"></a>
 &nbsp;
-<a href="https://jcnnik.github.io"><img src="https://img.shields.io/badge/Portfolio-live-57514A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+<a href="https://jcnnik.github.io"><img src="https://img.shields.io/badge/Portfolio-live-51565F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=A4502C&section=footer" alt="" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3E7BFA,100:0B0C0F&section=footer" alt="" width="100%">
 
-<sub>palette borrowed from <a href="https://jcnnik.github.io">jcnnik.github.io</a> · paper, ink and one copper accent</sub>
+<sub>palette borrowed from <a href="https://jcnnik.github.io">jcnnik.github.io</a> · black, silver and one electric blue</sub>
 
 </div>
