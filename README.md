@@ -8,13 +8,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0C0F,100:3E7BFA&text=Jannik%20%C2%B7%20Verix&fontColor=F7F8FA&fontSize=62&fontAlignY=36&desc=machine%20learning%20%C2%B7%20reverse%20engineering%20%C2%B7%20systems&descAlignY=56&descSize=17&animation=fadeIn" alt="" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=3E7BFA&center=true&vCenter=true&width=620&lines=M.Sc.+Computer+Science+student;Core+team+member+%40+Zen+Browser;AI+papers%2C+presented+in+Shanghai;I+take+software+apart+to+see+how+it+works" alt="M.Sc. Computer Science student · Zen Browser team · AI research · reverse engineering">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=3E7BFA&center=true&vCenter=true&width=620&lines=M.Sc.+Computer+Science+student;Zen+Browser+team+member;AI+papers%2C+presented+around+the+world;I+take+software+apart+to+see+how+it+works" alt="M.Sc. Computer Science student · Zen Browser team · AI research · reverse engineering">
 
 <br>
 
 <a href="https://github.com/jcnnik"><img src="https://komarev.com/ghpvc/?username=jcnnik&color=3e7bfa&style=flat-square&label=visitors" alt="visitor counter"></a>
 &nbsp;
-<a href="https://zen-browser.app/"><img src="https://img.shields.io/badge/Zen%20Browser-core%20team-3E7BFA?style=flat-square&logo=zenbrowser&logoColor=white" alt="Zen Browser core team"></a>
+<a href="https://zen-browser.app/"><img src="https://img.shields.io/badge/Zen%20Browser-team%20member-3E7BFA?style=flat-square&logo=zenbrowser&logoColor=white" alt="Zen Browser team member"></a>
 &nbsp;
 <img src="https://img.shields.io/badge/M.Sc.-Computer%20Science-0B0C0F?style=flat-square&logo=googlescholar&logoColor=white" alt="M.Sc. Computer Science">
 &nbsp;
@@ -33,16 +33,18 @@ PS C:\Users\Verix> Get-Developer | Format-List
 
 Name       : Jannik, online mostly known as Verix
 Degree     : B.Sc. Computer Science ✔  ·  M.Sc. in progress
-Team       : Zen Browser (on board since the very first builds)
-Research   : several ML papers, presented at AI conferences in Shanghai 🇨🇳
-Focus      : machine learning · cybersecurity · reverse engineering
+Team       : Zen Browser team member, you'll find me on the Zen Discord
+Research   : ML papers, presented at AI conferences around the world 🌏 (Shanghai, among others)
+Focus      : machine learning · cybersecurity · reverse engineering · Android
 Habit      : automating everything that deserves automating
+Mindset    : can't walk past a bug. if it's broken, it gets fixed
+Contact    : Discord · v6z (fastest way to reach me)
 Links      : zen-browser.app · jcnnik.github.io
 ```
 
 <div align="center">
 
-🧠 `Machine Learning` &nbsp;·&nbsp; 🛡️ `Cybersecurity` &nbsp;·&nbsp; ⚙️ `Reverse Engineering` &nbsp;·&nbsp; 🤖 `Systems Automation`
+🧠 `Machine Learning` &nbsp;·&nbsp; 🛡️ `Cybersecurity` &nbsp;·&nbsp; ⚙️ `Reverse Engineering` &nbsp;·&nbsp; 📱 `Android Patching` &nbsp;·&nbsp; 🤖 `Systems Automation`
 
 </div>
 
@@ -56,6 +58,7 @@ Links      : zen-browser.app · jcnnik.github.io
 <br><br>
 <img src="https://img.shields.io/badge/Batch-0B0C0F?style=for-the-badge&logoColor=white" alt="Batch">
 <img src="https://img.shields.io/badge/Windows%20internals-3E7BFA?style=for-the-badge&logoColor=white" alt="Windows internals">
+<img src="https://img.shields.io/badge/Android%20patching-0B0C0F?style=for-the-badge&logo=android&logoColor=white" alt="Android patching">
 <img src="https://img.shields.io/badge/binary%20analysis-51565F?style=for-the-badge&logoColor=white" alt="binary analysis">
 
 </div>
@@ -96,7 +99,7 @@ Links      : zen-browser.app · jcnnik.github.io
 <td valign="top" width="33%">
 
 ### 🌀 Zen Browser
-Free, open source, Firefox based. Built around calm, deeply customizable browsing. I've been on the team since day one.
+Free, open source, Firefox based. Built around calm, deeply customizable browsing. I'm part of the team, you'll find me on the Zen Discord.
 
 [`zen-browser.app ↗`](https://zen-browser.app/)
 
@@ -104,7 +107,7 @@ Free, open source, Firefox based. Built around calm, deeply customizable browsin
 <td valign="top" width="33%">
 
 ### 📄 AI Research
-Multiple published ML papers, presented at AI conferences in Shanghai. Applied work with a focus on results you can explain.
+Multiple published ML papers, presented at AI conferences around the world, Shanghai among them. Applied work with a focus on results you can explain.
 
 <sub><i>Paper links coming soon</i></sub>
 
@@ -112,7 +115,7 @@ Multiple published ML papers, presented at AI conferences in Shanghai. Applied w
 <td valign="top" width="33%">
 
 ### ⚙️ RE & Tooling
-Binary analysis, Windows automation in PowerShell, and small sharp tools that do one thing well.
+Binary analysis, Android app patching, Windows automation in PowerShell, and small sharp tools that do one thing well.
 
 [`github.com/jcnnik ↗`](https://github.com/jcnnik?tab=repositories)
 
@@ -135,9 +138,11 @@ Binary analysis, Windows automation in PowerShell, and small sharp tools that do
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Discord-v6z-3E7BFA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: v6z">
+&nbsp;
 <a href="https://github.com/jcnnik"><img src="https://img.shields.io/badge/GitHub-jcnnik-0B0C0F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 &nbsp;
-<a href="https://zen-browser.app/"><img src="https://img.shields.io/badge/Zen%20Browser-team-3E7BFA?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="Zen Browser"></a>
+<a href="https://zen-browser.app/"><img src="https://img.shields.io/badge/Zen%20Browser-team-51565F?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="Zen Browser"></a>
 &nbsp;
 <a href="https://jcnnik.github.io"><img src="https://img.shields.io/badge/Portfolio-live-51565F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 
