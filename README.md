@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0C0F,100:3E7BFA&text=Jannik%20%C2%B7%20Verix&fontColor=F7F8FA&fontSize=62&fontAlignY=36&desc=machine%20learning%20%C2%B7%20reverse%20engineering%20%C2%B7%20systems&descAlignY=56&descSize=17&animation=fadeIn" alt="" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=3E7BFA&center=true&vCenter=true&width=620&lines=M.Sc.+Computer+Science+student;Zen+Browser+team+member;AI+papers%2C+presented+around+the+world;I+take+software+apart+to+see+how+it+works" alt="M.Sc. Computer Science student · Zen Browser team · AI research · reverse engineering">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=3E7BFA&center=true&vCenter=true&width=620&lines=M.Sc.+Computer+Science+student;Research%3A+state-of-the-art+recommender+systems;AI+papers%2C+presented+around+the+world;Zen+Browser+team+member;I+take+software+apart+to+see+how+it+works" alt="M.Sc. Computer Science student · Zen Browser team · AI research · reverse engineering">
 
 <br>
 
@@ -34,8 +34,8 @@ PS C:\Users\Verix> Get-Developer | Format-List
 Name       : Jannik, online mostly known as Verix
 Degree     : B.Sc. Computer Science ✔  ·  M.Sc. in progress
 Team       : Zen Browser team member, you'll find me on the Zen Discord
-Research   : ML papers, presented at AI conferences around the world 🌏 (Shanghai, among others)
-Focus      : machine learning · prompt engineering · cybersecurity · reverse engineering · Android
+Research   : state-of-the-art recommender systems · ML papers presented at AI conferences around the world 🌏 (Shanghai, among others)
+Focus      : machine learning & recommender systems · prompt engineering · cybersecurity · reverse engineering · Android
 Habit      : automating everything that deserves automating
 Mindset    : can't walk past a bug. if it's broken, it gets fixed
 Contact    : GitHub @jcnnik (best way) · Discord v6z
@@ -108,7 +108,7 @@ Free, open source, Firefox based. Built around calm, deeply customizable browsin
 <td valign="top" width="33%">
 
 ### 📄 AI Research
-Multiple published ML papers, presented at AI conferences around the world, Shanghai among them. Applied work with a focus on results you can explain.
+Published ML papers centered on state-of-the-art recommender systems, presented at AI conferences around the world, Shanghai among them.
 
 <sub><i>Paper links coming soon</i></sub>
 
