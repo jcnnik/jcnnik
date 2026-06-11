@@ -35,10 +35,10 @@ Name       : Jannik, online mostly known as Verix
 Degree     : B.Sc. Computer Science ✔  ·  M.Sc. in progress
 Team       : Zen Browser team member, you'll find me on the Zen Discord
 Research   : ML papers, presented at AI conferences around the world 🌏 (Shanghai, among others)
-Focus      : machine learning · cybersecurity · reverse engineering · Android
+Focus      : machine learning · prompt engineering · cybersecurity · reverse engineering · Android
 Habit      : automating everything that deserves automating
 Mindset    : can't walk past a bug. if it's broken, it gets fixed
-Contact    : Discord · v6z (fastest way to reach me)
+Contact    : GitHub @jcnnik (best way) · Discord v6z
 Links      : zen-browser.app · jcnnik.github.io
 ```
 
@@ -52,13 +52,14 @@ Links      : zen-browser.app · jcnnik.github.io
 
 <div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java&theme=dark" alt="Python, C, C++, C#, Java"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,rust,c,cpp,cs,java&theme=dark" alt="Python, Rust, C, C++, C#, Java"></a>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=powershell,html,css,js,git,regex&theme=dark" alt="PowerShell, HTML, CSS, JavaScript, Git, Regex"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=powershell,jupyter,html,css,js,git,regex&theme=dark" alt="PowerShell, Jupyter, HTML, CSS, JavaScript, Git, Regex"></a>
 <br><br>
 <img src="https://img.shields.io/badge/Batch-0B0C0F?style=for-the-badge&logoColor=white" alt="Batch">
 <img src="https://img.shields.io/badge/Windows%20internals-3E7BFA?style=for-the-badge&logoColor=white" alt="Windows internals">
 <img src="https://img.shields.io/badge/Android%20patching-0B0C0F?style=for-the-badge&logo=android&logoColor=white" alt="Android patching">
+<img src="https://img.shields.io/badge/prompt%20engineering-3E7BFA?style=for-the-badge&logoColor=white" alt="prompt engineering">
 <img src="https://img.shields.io/badge/binary%20analysis-51565F?style=for-the-badge&logoColor=white" alt="binary analysis">
 
 </div>
@@ -138,9 +139,9 @@ Binary analysis, Android app patching, Windows automation in PowerShell, and sma
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Discord-v6z-3E7BFA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: v6z">
+<a href="https://github.com/jcnnik"><img src="https://img.shields.io/badge/GitHub-jcnnik-3E7BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 &nbsp;
-<a href="https://github.com/jcnnik"><img src="https://img.shields.io/badge/GitHub-jcnnik-0B0C0F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<img src="https://img.shields.io/badge/Discord-v6z-0B0C0F?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: v6z">
 &nbsp;
 <a href="https://zen-browser.app/"><img src="https://img.shields.io/badge/Zen%20Browser-team-51565F?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="Zen Browser"></a>
 &nbsp;
