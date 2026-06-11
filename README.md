@@ -150,6 +150,4 @@ Binary analysis, Android app patching, Windows automation in PowerShell, and sma
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3E7BFA,100:0B0C0F&section=footer" alt="" width="100%">
 
-<sub>palette borrowed from <a href="https://jcnnik.github.io">jcnnik.github.io</a> · black, silver and one electric blue</sub>
-
 </div>
