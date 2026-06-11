@@ -54,8 +54,9 @@ Links      : zen-browser.app · jcnnik.github.io
 
 <a href="#"><img src="https://skillicons.dev/icons?i=python,rust,c,cpp,cs,java&theme=dark" alt="Python, Rust, C, C++, C#, Java"></a>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=powershell,jupyter,html,css,js,git,regex&theme=dark" alt="PowerShell, Jupyter, HTML, CSS, JavaScript, Git, Regex"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=powershell,html,css,js,git,regex&theme=dark" alt="PowerShell, HTML, CSS, JavaScript, Git, Regex"></a>
 <br><br>
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-3E7BFA?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
 <img src="https://img.shields.io/badge/Batch-0B0C0F?style=for-the-badge&logoColor=white" alt="Batch">
 <img src="https://img.shields.io/badge/Windows%20internals-3E7BFA?style=for-the-badge&logoColor=white" alt="Windows internals">
 <img src="https://img.shields.io/badge/Android%20patching-0B0C0F?style=for-the-badge&logo=android&logoColor=white" alt="Android patching">
